@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload Data</title>
+</head>
+<body>
+    <h1>Upload Your Resume and Projects</h1>
+    <p>Please use the link below to upload your files:</p>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSe_2vtYod0AiNTZm6tmiyAwSQuuUPpToCtmw29HndFM5KdHOA/viewform?usp=sf_link" target="_blank">Upload Files</a>
+</body>
+</html>
